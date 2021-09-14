@@ -1,10 +1,5 @@
 <template>
   <section>
-    <h1>Hello, This is just a test</h1>
-    <nuxt-link to="/users">Users page</nuxt-link>
+    <h1>This is the homepage</h1>
   </section>
 </template>
-
-<script>
-export default {}
-</script>
